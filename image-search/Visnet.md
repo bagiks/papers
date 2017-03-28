@@ -16,7 +16,7 @@
     * Triplet deep ranking (based on VGG-16)
     * Parrallel shallow convolution network layer (capture high, low details)
     * Visualization of the model:
-      * ![Visnet Model](images/Visnet_model.png?raw=true "Visnet Model")
+      * ![Visnet Model](images/visnet_model.png?raw=true "Visnet Model")
   * Suggest a mothod to create training data:
     * First using only catalogue to training
       * Using basic score technique to generate triplet 
